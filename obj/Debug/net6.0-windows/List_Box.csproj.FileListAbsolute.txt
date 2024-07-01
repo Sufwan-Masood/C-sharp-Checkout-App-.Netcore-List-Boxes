@@ -1,0 +1,16 @@
+C:\Users\GOLDEN\source\repos\List_Box\bin\Debug\net6.0-windows\List_Box.exe
+C:\Users\GOLDEN\source\repos\List_Box\bin\Debug\net6.0-windows\List_Box.deps.json
+C:\Users\GOLDEN\source\repos\List_Box\bin\Debug\net6.0-windows\List_Box.runtimeconfig.json
+C:\Users\GOLDEN\source\repos\List_Box\bin\Debug\net6.0-windows\List_Box.dll
+C:\Users\GOLDEN\source\repos\List_Box\bin\Debug\net6.0-windows\List_Box.pdb
+C:\Users\GOLDEN\source\repos\List_Box\obj\Debug\net6.0-windows\List_Box.Form1.resources
+C:\Users\GOLDEN\source\repos\List_Box\obj\Debug\net6.0-windows\List_Box.csproj.GenerateResource.cache
+C:\Users\GOLDEN\source\repos\List_Box\obj\Debug\net6.0-windows\List_Box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLDEN\source\repos\List_Box\obj\Debug\net6.0-windows\List_Box.AssemblyInfoInputs.cache
+C:\Users\GOLDEN\source\repos\List_Box\obj\Debug\net6.0-windows\List_Box.AssemblyInfo.cs
+C:\Users\GOLDEN\source\repos\List_Box\obj\Debug\net6.0-windows\List_Box.csproj.CoreCompileInputs.cache
+C:\Users\GOLDEN\source\repos\List_Box\obj\Debug\net6.0-windows\List_Box.dll
+C:\Users\GOLDEN\source\repos\List_Box\obj\Debug\net6.0-windows\refint\List_Box.dll
+C:\Users\GOLDEN\source\repos\List_Box\obj\Debug\net6.0-windows\List_Box.pdb
+C:\Users\GOLDEN\source\repos\List_Box\obj\Debug\net6.0-windows\List_Box.genruntimeconfig.cache
+C:\Users\GOLDEN\source\repos\List_Box\obj\Debug\net6.0-windows\ref\List_Box.dll
